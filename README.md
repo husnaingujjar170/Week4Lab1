@@ -15,7 +15,7 @@ The Fiver Landing Page project aims to design a visually appealing landing page 
 ## Screenshots
 
 ### Main Page
-![Main Page](screenshots/hero.png)
+![Main Page](dogss.png)
 
 ## Usage
 To view the Fiver Landing Page, open the index.html file in a web browser.
